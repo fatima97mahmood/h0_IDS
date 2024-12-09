@@ -1,5 +1,9 @@
 # ML-Driven Predictive Analysis for Loans
 
+- **Fatima Mahmood**
+- **Danni Zhang**
+- **Romet Vislapuu**
+
 ## Project Overview
 This project applies machine learning (ML) techniques to predict loan approval outcomes based on demographic, financial, and credit-related features. The goal is to classify whether a loan application is approved or denied by analyzing synthetic data inspired by real-world credit and financial datasets.
 
@@ -30,7 +34,7 @@ We applied **SMOTE** and used class weights during model training to address thi
 ### Model Selection and Training
 We tested multiple machine learning models, performed hyperparameter tuning, and utilized cross-validation to ensure the models' robustness, aiming for improved performance despite the imbalanced data distribution.
 
-## Data Science Methods
+## Machine Learning Methods
 We employed several machine learning techniques to build predictive models. These methods are as follows:
 
 1. **Decision Tree**:
