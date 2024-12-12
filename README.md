@@ -94,7 +94,6 @@ The Pickle files offer a balance between **efficiency** (by loading pretrained m
 
 - **Loan_Approval_Prediction.ipynb**: The main Jupyter notebook where the data analysis, preprocessing, and model training are done.
 - **data/loan_data.csv**: The dataset used for training and testing the models.
-- **requirements.txt**: A list of required Python packages.
 - **models/**: Directory containing `model.pkl` files that have the saved version of the trained model (e.g., RandomForest, DecisionTree, etc.) and Keras Tuner files where the results of the hyperparameter search are stored, including the best configurations for the neural network model.
       ***NB!*** Due to GitHubs file size limitations, the models are available through this [link](https://drive.google.com/drive/folders/1ea5G8U2NmIiKeSg1Z5uhbesHNkp2_sWB?usp=sharing).
 - **figures/**: Folder for storing any generated plots or visualizations (e.g., ROC curve, feature importance).
