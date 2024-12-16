@@ -9,7 +9,6 @@ This project applies machine learning (ML) techniques to predict loan approval o
 
 The project aims to:
 - Predict binary loan approval outcomes.
-- Identify key predictors influencing loan decisions.
 - Apply various machine learning algorithms to achieve high predictive accuracy.
 
 ## Motivation
